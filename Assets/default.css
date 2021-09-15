@@ -21,6 +21,8 @@ body {
 
 .Pixiv {
 	margin: 10%
+        background-color: lightgray;
+	opacity: 0.6;
 }
 
 .pixcontent {
@@ -28,7 +30,7 @@ body {
 }
 
 .pixlogo {
-	margin: 0 5% 0 0
+	margin: 5%
 }
 
 .pixdetails {
