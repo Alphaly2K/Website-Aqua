@@ -19,13 +19,6 @@ body {
 	margin: 4%
 }
 
-.Pixiv {
-	background-color: lightgray;
-	opacity: 0.6;
-	margin: 10%;
-	border-radius: 20px
-}
-
 .pixdetails {
 	font-color: gray;
 	font-size: small;
