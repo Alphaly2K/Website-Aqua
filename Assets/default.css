@@ -3,31 +3,17 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover
 }
-
 .Main {
 	background-color: lightgray;
 	opacity: 0.6;
-	margin: 10%,10%,10px,10%;
+	margin: 10%;
 	border-radius: 20px
 }
-
-.Pixiv {
-	margin: 10px,10%,10%,10%
-}
-
 .title {
 	font-size: 30px
 }
-
 .MainContent {
 	margin: 4%
-}
-
-.PixivContent {
-	margin: 4%;
-        background-color: lightgray;
-	opacity: 0.6;
-        border-radius: 20px
 }
 
 .pixdetails {
