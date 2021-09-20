@@ -7,7 +7,14 @@ body {
 .Main {
 	background-color: lightgray;
 	opacity: 0.6;
-	margin: 10%;
+	margin: 10%,10%,10px,10%;
+	border-radius: 20px
+}
+
+.Pixiv {
+	background-color: lightgray;
+	opacity: 0.6;
+	margin: 10px,10%,10%,10%;
 	border-radius: 20px
 }
 
@@ -16,6 +23,10 @@ body {
 }
 
 .MainContent {
+	margin: 4%
+}
+
+.PixivContent {
 	margin: 4%
 }
 
