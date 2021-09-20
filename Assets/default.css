@@ -20,9 +20,10 @@ body {
 }
 
 .Pixiv {
-	margin: 10%
+	margin: 10%;
         background-color: lightgray;
 	opacity: 0.6;
+        border-radius: 20px
 }
 
 .pixcontent {
