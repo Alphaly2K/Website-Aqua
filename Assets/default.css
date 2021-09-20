@@ -20,22 +20,14 @@ body {
 }
 
 .Pixiv {
-	margin: 10%;
-        background-color: lightgray;
+	background-color: lightgray;
 	opacity: 0.6;
-        border-radius: 20px
-}
-
-.pixcontent {
-	margin: 4%
-}
-
-.pixlogo {
-	margin: 5%;
-        height: 75%
+	margin: 10%;
+	border-radius: 20px
 }
 
 .pixdetails {
 	font-color: gray;
-	font-size: small
+	font-size: small;
+        margin: 10%
 }
